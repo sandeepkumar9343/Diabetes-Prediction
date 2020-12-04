@@ -21,3 +21,5 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 9) Outcome: Class variable(0 or 1) (Target Variable)
 
+# Algorithm Used:
+Logistic Regression,Decision tree,KNearestNeighbour,Support Vector Classification Algorthms are used.
